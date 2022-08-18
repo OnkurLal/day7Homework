@@ -1,3 +1,18 @@
-h1{
-    color: dodgerblue;
+.column{
+    float: left;
+    width: 30%;
+    margin: 1%;
+    height: 300px;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 300px;
+}
+#left{
+    background-color: lightgreen;
+}
+#middle{
+    background-color: green;
+}
+#right{
+    background-color: darkgreen;
 }
